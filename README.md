@@ -1,7 +1,7 @@
 # Ex.No.6 AI-Assisted Programming and Debugging
 
-# Date:
-# Register no.
+# Date: 14.09.2026
+# Register no: 212224040335
 # Aim: Write and implement Python code that integrates with multiple AI tools to automate the task of interacting with APIs, comparing outputs, and generating actionable insights with Multiple AI Tools
 
 ### AI Tools Required
